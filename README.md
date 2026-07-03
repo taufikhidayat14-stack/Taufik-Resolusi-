@@ -1,2 +1,2 @@
-# Taufik-Resolusi-
-Rencana untuk rancangan web kedepannya
+# Taufik-Resolusi-Belajar
+Rencana untuk belajar dan membuat rancangan web kedepannya
